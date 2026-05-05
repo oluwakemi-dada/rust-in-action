@@ -12,5 +12,5 @@ fn main() {
     let mut grains = vec![];
     grains.push(Cereal::Rye);
     drop(grains);
-    // println!("{:?}", grains);
+    println!("{:?}", grains);
 }
