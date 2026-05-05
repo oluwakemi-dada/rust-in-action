@@ -4,4 +4,5 @@ members = [
   "intro/hello2",
   "intro/penguins",
   "intro/cereals",
+  "intro/race",
 ]
