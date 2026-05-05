@@ -19,6 +19,10 @@ name = "hello2"
 version = "0.1.0"
 
 [[package]]
+name = "letters"
+version = "0.1.0"
+
+[[package]]
 name = "penguins"
 version = "0.1.0"
 
