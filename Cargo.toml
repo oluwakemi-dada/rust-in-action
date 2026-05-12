@@ -7,4 +7,5 @@ members = [
   "intro/race",
   "intro/fruit",
   "intro/letters",
+  "foundations/playground",
 ]
